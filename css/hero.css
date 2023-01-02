@@ -1,0 +1,56 @@
+body{
+    background-image: url('https://images3.alphacoders.com/954/954653.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #FFFFFF;
+}
+header{
+	text-align: center;
+	font-size: 30px;
+	color: black;
+	font-family: 'Russo One', sans-serif;
+}
+h2{
+
+	color:Black;
+	font-size: 30px;
+	font-family: 'Russo One', sans-serif;
+}
+h3{
+
+	color:Black;
+	font-size: 30px;
+	text-align: center;
+	font-family: 'Russo One', sans-serif;
+
+}
+h4{
+
+	color:Black;
+	font-size: 30px;
+	text-align: center;
+	font-family: 'Russo One', sans-serif;	
+}
+ul{
+	color:black;
+}
+.container {
+  display: flex;
+}
+
+img {
+  max-width: 100%
+}
+
+.image {
+  flex-basis: 40%
+}
+
+.text {
+  font-size: 20px;
+  padding-right: 500px;
+}
+p{
+	color: black;
+}
